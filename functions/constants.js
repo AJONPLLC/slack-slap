@@ -1,7 +1,7 @@
 var INVALID_INPUT = 'Invalid input format. Check your request.';
 var NO_INPUT = 'No input provided. Check your request.';
 var NO_HOOK = 'Need the Incoming Hook Token to post back!';
-var DEFAULT_EMOJI = ':fish:';
+var DEFAULT_EMOJI = ':wave:';
 
 module.exports = {
   INVALID_INPUT,
