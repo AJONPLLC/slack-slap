@@ -1,0 +1,11 @@
+{
+  "name": "slapbot",
+  "version": "0.0.2",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests.js"
+  },
+  "main": "server.js",
+  "private": true,
+  "dependencies": {}
+}
