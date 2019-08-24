@@ -44,7 +44,7 @@ app.post('/slap', function(req, res, next) {
     text: `${userName} slaps ${slapTarget} around a bit with a ${slapEmoji}! ${banter}`,
     username: 'slapbot',
     channel: channel,
-    icon_emoji: ':fish:',
+    icon_emoji: ':wave:',
     link_names: 1
   };
 
