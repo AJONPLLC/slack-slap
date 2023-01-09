@@ -14,8 +14,8 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "firebase-admin": "^8.4.0",
-    "firebase-functions": "^3.2.0",
+    "firebase-admin": "^11.4.1",
+    "firebase-functions": "^3.24.1",
     "request": "^2.73.0"
   },
   "devDependencies": {
